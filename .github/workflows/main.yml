@@ -46,7 +46,7 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          context: ./api_yambd/
+          context: ./
           tags: esinitsyn/api_yamdb:latest
           
   deploy:
