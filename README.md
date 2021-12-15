@@ -1,5 +1,6 @@
 # yamdb_final
 проект доступен по адресу: 51.250.18.91
+
 ![Django-app workflow](https://github.com/sinitsynes/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 
